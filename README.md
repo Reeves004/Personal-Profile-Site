@@ -1,5 +1,5 @@
 # Personal-Profile-Site
-Made using Bootstrap,HTML and CSS, a dummy personal website with 4 pages. 
+Made using Bootstrap,HTML and CSS, a dummy personal website with 4 pages.   
 
 
 ## LINK TO THE SITE:
